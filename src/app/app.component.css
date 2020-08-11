@@ -1,0 +1,11 @@
+#parent{
+    width: 500px;
+    margin: auto;
+    height: 500px;
+    border: 1px solid #666;
+    overflow: hidden;
+}
+
+.selectedDiv{
+background-color: #202020;
+}
